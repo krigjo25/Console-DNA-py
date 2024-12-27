@@ -64,7 +64,7 @@ def main():
 def longest_match(sequence, subsequence):
     """
         *   Returns length of longest run of subsequence in sequence.
-        *  Adopted from: https://cs50.harvard.edu/x/2024/psets/6/dna/
+        *  Adopted from: https://cs50.harvard.edu/x/2024/psets/6/dna/ ( A part of the distribution code )
     """
 
     # Initialize variables
