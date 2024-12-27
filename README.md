@@ -6,25 +6,22 @@ Please respect, and keep the [Academic Honesty Policy](https://cs50.harvard.edu/
 
 A demo of the application can be watched at [CS50 Homepage](https://cs50.harvard.edu/x/2024/psets/6/dna/)
 
-# Cash exchanger
-An application that calculates how many coins there is in propmted text
-
 ## Installation
 1. Clone the repository:
 ```sh
 # Using SSh 
-ssh git@github.com:krigjo25/console-DNA-py.git
+ssh git@github.com:krigjo25/Console-DNA-py.git
 
 # Using git bash
-git clone https://github.com/krigjo25/console-DNA-py.git
+git clone https://github.com/krigjo25/Console-DNA-py.git
 
 # Using Github Cli
-gh repo clone console-DNA-py
+gh repo clone Console-DNA-py
 ```
 
 2. Navigate to the project directory
 ```sh
-cd console-DNA-py
+cd Console-DNA-py
 ```
 
 3. Run the file
